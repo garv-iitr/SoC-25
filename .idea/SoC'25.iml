@@ -18,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/arvia/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/arvia/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/arvia/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/arvia/frontend/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/arvia/frontend/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/arvia/frontend/build" />
